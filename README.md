@@ -8,13 +8,9 @@ Issues will be used, to submit suggestions and bug reports.
 
 Future plans for the mod:
 
- - Olivia Armor
- - Axel Armor
- - Lucas Armor
- - Petra Armor
+ - Tims Armor
  - Better Titanium ore generation
  - Episode 7 Headset (and maybe the redstone chip for shits and gigs lol)
- - Tim Armor
  
  - Season 2 Armors will be some time from now, but we will be doing them.
  
