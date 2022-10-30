@@ -8,9 +8,10 @@ Issues will be used, to submit suggestions and bug reports.
 
 Future plans for the mod:
 
- - Tims Armor
- - Better Titanium ore generation
- - Episode 7 Headset (and maybe the redstone chip for shits and gigs lol)
+- Halloween update will be 1.5
+- 1.5 will add the White Pumpkin armor!
+- 1.5 will be a huge bug fix update!
+- 1.5 is planned to include a better way to get Enchanted Diamonds!
  
  - Season 2 Armors will be some time from now, but we will be doing them.
  
@@ -21,4 +22,4 @@ Some things I want to know:
  - Should we make anything harder or easier?
  - Recipe changes (Provide a recipe suggestion using: https://crafting.thedestruc7i0n.ca )
  - Better way of getting enchanted diamonds other than smelting?
- - Much more involving the mod mechcanics
+ - Much more involving the mod mechanics
