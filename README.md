@@ -8,11 +8,8 @@ Issues will be used, to submit suggestions and bug reports.
 
 Future plans for the mod:
 
-- Halloween update will be 1.5
-- 1.5 will add the White Pumpkin armor!
-- 1.5 will be a huge bug fix update!
-- 1.5 is planned to include a better way to get Enchanted Diamonds!
- 
+ - 1.6.2 will include the final re-works of the armors
+
  - Season 2 Armors will be some time from now, but we will be doing them.
  
  
