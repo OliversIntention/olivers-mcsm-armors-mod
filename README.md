@@ -1,5 +1,7 @@
 Official Oliver's MCSM Armor's Mod repository!
 
+Mod Link: https://www.curseforge.com/minecraft/mc-mods/olivers-minecraft-story-mode-armors
+
 In the Code Section, we will provide the lastest version for each version, 1.18.2, and 1.19.2
 
 Pull requests will not be used.
