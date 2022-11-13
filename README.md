@@ -8,11 +8,7 @@ Pull requests will not be used.
 
 Issues will be used, to submit suggestions and bug reports.
 
-Future plans for the mod:
-
- - 1.6.2 will include the final re-works of the armors
-
- - Season 2 Armors will be some time from now, but we will be doing them.
+We currently have no plans for the future of this mod, but will continue to provide texture and regular bug fixes.
  
  
 Some things I want to know:
