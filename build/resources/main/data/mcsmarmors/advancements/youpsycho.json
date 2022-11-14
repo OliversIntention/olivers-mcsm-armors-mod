@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:white_pumpkin_helmet"
+    },
+    "title": {
+      "translate": "advancements.youpsycho.title"
+    },
+    "description": {
+      "translate": "advancements.youpsycho.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "youpsycho": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:white_pumpkin_helmet"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "mcsmarmors:thearmoroftheknight"
+}

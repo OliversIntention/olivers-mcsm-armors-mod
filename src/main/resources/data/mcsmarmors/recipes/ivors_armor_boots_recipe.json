@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:ivors_alloy"
+    },
+    "2": {
+      "item": "mcsmarmors:ivors_alloy"
+    },
+    "3": {
+      "item": "mcsmarmors:ivors_alloy"
+    },
+    "5": {
+      "item": "mcsmarmors:ivors_alloy"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:ivors_armor_boots",
+    "count": 1
+  }
+}

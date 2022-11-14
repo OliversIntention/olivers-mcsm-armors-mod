@@ -1,0 +1,51 @@
+{
+  "mcsmarmors:galacticcolossus": {
+    "criteria": {
+      "galacticcolossus": "2022-11-14 17:15:17 -0500"
+    },
+    "done": true
+  },
+  "mcsmarmors:vaultedtreasure": {
+    "criteria": {
+      "vaultedtreasure": "2022-11-14 17:15:21 -0500"
+    },
+    "done": true
+  },
+  "mcsmarmors:thearmoroftheknight": {
+    "criteria": {
+      "thearmoroftheknight": "2022-11-14 17:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-11-14 17:15:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-11-14 17:12:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:meadow": "2022-11-14 17:11:04 -0500"
+    },
+    "done": false
+  },
+  "mcsmarmors:hellspunchingbag": {
+    "criteria": {
+      "hellspunchingbag": "2022-11-14 17:15:14 -0500"
+    },
+    "done": true
+  },
+  "mcsmarmors:upgradespeopleupgrades": {
+    "criteria": {
+      "upgradespeopleupgrades": "2022-11-14 17:14:41 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

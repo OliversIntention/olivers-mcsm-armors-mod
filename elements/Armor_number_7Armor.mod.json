@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "armor_number_7_head",
+    "enableBody": true,
+    "textureBody": "armor_number_7chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "armor_number_7pants",
+    "enableBoots": true,
+    "textureBoots": "armor_number_7boots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "armor_number_7",
+    "helmetName": "Armor_number_7 Helmet",
+    "bodyName": "Armor number 7 Chestplate",
+    "leggingsName": "Armor number 7 Leggings",
+    "bootsName": "Armor number 7 Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelNumber7",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "new7.png",
+    "leggingsModelName": "ModelNumber7",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "new7.png",
+    "bootsModelName": "ModelNumber7",
+    "bootsModelPartL": "LeftLeg2",
+    "bootsModelPartR": "RightLeg2",
+    "bootsModelTexture": "new7.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 15,
+    "damageValueHelmet": 2,
+    "damageValueBody": 5,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_leather"
+    },
+    "repairItems": [
+      {
+        "value": "Items.LEATHER"
+      }
+    ]
+  }
+}

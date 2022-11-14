@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "1": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "2": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "3": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "4": {
+      "item": "mcsmarmors:titaniumalloy_armor_helmet"
+    },
+    "5": {
+      "item": "mcsmarmors:romeum_plate"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:unenchanted_romeum_armor_helmet",
+    "count": 1
+  }
+}

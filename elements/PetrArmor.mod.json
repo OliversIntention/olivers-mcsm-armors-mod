@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "obj_helmetpetra",
+    "enableBody": true,
+    "textureBody": "obj_chestplatepetra",
+    "enableLeggings": true,
+    "textureLeggings": "obj_pantspetra",
+    "enableBoots": true,
+    "textureBoots": "obj_bootspetra",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "petr",
+    "helmetName": "Petra Helmet",
+    "bodyName": "Petra Chestplate",
+    "leggingsName": "Petra Leggings",
+    "bootsName": "Petra Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelPetra6",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "petra6.png",
+    "bodyModelName": "ModelPetra6",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "petra6.png",
+    "leggingsModelName": "ModelPetra6",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "petra6.png",
+    "bootsModelName": "ModelPetra6",
+    "bootsModelPartL": "LeftFoot",
+    "bootsModelPartR": "RightFoot",
+    "bootsModelTexture": "petra6.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

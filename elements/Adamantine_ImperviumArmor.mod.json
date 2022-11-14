@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "the_adamantine_imperviumchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "the_adamantine_imperviumpants",
+    "enableBoots": true,
+    "textureBoots": "the_adamantine_imperviumboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "adamantine_impervium",
+    "helmetName": "Adamantine Impervium Helmet",
+    "bodyName": "Adamantine Impervium Chestplate",
+    "leggingsName": "Adamantine Impervium Leggings",
+    "bootsName": "Adamantine Impervium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelcustom_model",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "adamantine_imperviumtexture.png",
+    "bodyModelName": "ModelAdam4",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "adam4.png",
+    "leggingsModelName": "ModelAdam4",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "adam4.png",
+    "bootsModelName": "ModelAdam4",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "adam4.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

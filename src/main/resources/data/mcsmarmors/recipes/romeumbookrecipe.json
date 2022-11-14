@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:romeumingot"
+    },
+    "1": {
+      "item": "mcsmarmors:romeumingot"
+    },
+    "2": {
+      "item": "mcsmarmors:romeumingot"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "mcsmarmors:ivors_enchantment_book"
+    },
+    "5": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "6": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "8": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:romeum_book",
+    "count": 1
+  }
+}

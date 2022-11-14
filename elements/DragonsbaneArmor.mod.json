@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "dragonsbane_head",
+    "enableBody": true,
+    "textureBody": "dragonsbanechestplate",
+    "enableLeggings": true,
+    "textureLeggings": "dragonsbanepants",
+    "enableBoots": true,
+    "textureBoots": "dragonsboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "dragonsbane",
+    "helmetName": "Dragonsbane Helmet",
+    "bodyName": "Dragonsbane Chestplate",
+    "leggingsName": "Dragonsbane Leggings",
+    "bootsName": "Dragonsbane Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelBane4",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "bane4.png",
+    "leggingsModelName": "ModelBane4",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "bane4.png",
+    "bootsModelName": "ModelBane4",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "bane4.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

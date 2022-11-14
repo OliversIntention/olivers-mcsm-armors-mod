@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mcsmarmors:unenchanted_romeum_armor_boots"
+  },
+  "addition": {
+    "item": "mcsmarmors:romeum_book"
+  },
+  "result": {
+    "item": "mcsmarmors:enchanted_romeum_armor_boots"
+  }
+}

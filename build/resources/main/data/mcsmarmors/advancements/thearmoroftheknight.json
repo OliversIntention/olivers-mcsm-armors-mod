@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:super_alloyed_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.thearmoroftheknight.title"
+    },
+    "description": {
+      "translate": "advancements.thearmoroftheknight.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thearmoroftheknight": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:super_alloyed_armor_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "mcsmarmors:flat"
+}

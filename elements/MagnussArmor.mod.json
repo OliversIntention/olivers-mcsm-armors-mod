@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "magnus_helmet",
+    "enableBody": true,
+    "textureBody": "magnuschestplate",
+    "enableLeggings": true,
+    "textureLeggings": "magnuspants",
+    "enableBoots": true,
+    "textureBoots": "magnusboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "magnuss",
+    "helmetName": "Magnus Helmet",
+    "bodyName": "Magnus Chestplate",
+    "leggingsName": "Magnus Leggings",
+    "bootsName": "Magnus Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelMagnusBlock",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "ma161gnus.png",
+    "bodyModelName": "ModelMagnus4",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "magnus5.png",
+    "leggingsModelName": "ModelMagnus4",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "magnus5.png",
+    "bootsModelName": "ModelMagnus4",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "magnus5.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

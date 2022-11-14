@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "1": {
+      "item": "mcsmarmors:enricheddiamond"
+    },
+    "2": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "3": {
+      "item": "minecraft:ender_pearl"
+    },
+    "4": {
+      "item": "mcsmarmors:super_alloyed_armor_chestplate"
+    },
+    "5": {
+      "item": "minecraft:ender_pearl"
+    },
+    "7": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:ender_armor_chestplate",
+    "count": 1
+  }
+}

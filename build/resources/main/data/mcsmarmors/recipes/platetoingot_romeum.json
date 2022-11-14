@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mcsmarmors:romeum_plate"
+    }
+  ],
+  "result": {
+    "item": "mcsmarmors:romeumingot",
+    "count": 1
+  }
+}

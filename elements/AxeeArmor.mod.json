@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "magnus_helmet",
+    "enableBody": true,
+    "textureBody": "axelchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "axelpants",
+    "enableBoots": true,
+    "textureBoots": "axelboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "axee",
+    "helmetName": "Axel Helmet",
+    "bodyName": "Axel Chestplate",
+    "leggingsName": "Axel Leggings",
+    "bootsName": "Axel Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelaxelBlock",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "axeltexture.png",
+    "bodyModelName": "ModelNewAxel",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "axel5.png",
+    "leggingsModelName": "ModelNewAxel",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "axel5.png",
+    "bootsModelName": "ModelNewAxel",
+    "bootsModelPartL": "LFoot",
+    "bootsModelPartR": "RFoot",
+    "bootsModelTexture": "axel5.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

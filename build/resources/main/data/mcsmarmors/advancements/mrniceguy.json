@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:lukas_chestplate"
+    },
+    "title": {
+      "translate": "advancements.mrniceguy.title"
+    },
+    "description": {
+      "translate": "advancements.mrniceguy.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mrniceguy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:lukas_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "mcsmarmors:thearmoroftheknight"
+}

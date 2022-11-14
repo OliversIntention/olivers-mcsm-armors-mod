@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "sorenhelmet",
+    "enableBody": true,
+    "textureBody": "sorenchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "sorenpants",
+    "enableBoots": true,
+    "textureBoots": "sorenboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "sore",
+    "helmetName": "Soren Helmet",
+    "bodyName": "Soren Chestplate",
+    "leggingsName": "Soren Leggings",
+    "bootsName": "Soren Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelSoren4",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "soren4.png",
+    "bodyModelName": "ModelSoren4",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "soren4.png",
+    "leggingsModelName": "ModelSoren4",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "soren4.png",
+    "bootsModelName": "ModelSoren4",
+    "bootsModelPartL": "LFoot",
+    "bootsModelPartR": "RFoot",
+    "bootsModelTexture": "soren4.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "champion_of_the_netherhelmet",
+    "enableBody": true,
+    "textureBody": "champion_of_the_netherchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "champion_of_the_netherpants",
+    "enableBoots": true,
+    "textureBoots": "champion_of_the_netherboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "nether_champion",
+    "helmetName": "Champion of the Nether Helmet",
+    "bodyName": "Champion of the Nether Chestplate",
+    "leggingsName": "Champion of the Nether Leggings",
+    "bootsName": "Champion of the Nether Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelNetherChampion",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "netherchampion.png",
+    "bodyModelName": "ModelNetherChampion",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "netherchampion.png",
+    "leggingsModelName": "ModelNetherChampion",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "netherchampion.png",
+    "bootsModelName": "ModelNetherChampion",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "netherchampion.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 150,
+    "damageValueHelmet": 6,
+    "damageValueBody": 16,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 6,
+    "enchantability": 20,
+    "toughness": 5.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Romeumingot"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:ender_defender_chestplate"
+    },
+    "title": {
+      "translate": "advancements.oftheplacewedontknow.title"
+    },
+    "description": {
+      "translate": "advancements.oftheplacewedontknow.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "oftheplacewedontknow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:ender_defender_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "mcsmarmors:thearmoroftheknight"
+}

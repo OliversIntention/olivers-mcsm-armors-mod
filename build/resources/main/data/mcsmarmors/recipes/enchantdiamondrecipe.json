@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mcsmarmors:cut_diamond"
+    },
+    {
+      "item": "mcsmarmors:ivors_enchantment_book"
+    }
+  ],
+  "result": {
+    "item": "mcsmarmors:enchanted_diamond",
+    "count": 4
+  }
+}

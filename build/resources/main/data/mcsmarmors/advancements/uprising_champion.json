@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:enchanted_romeum_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.uprising_champion.title"
+    },
+    "description": {
+      "translate": "advancements.uprising_champion.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "uprising_champion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:enchanted_romeum_armor_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "mcsmarmors:the_master_book"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:enchanted_diamond"
+    },
+    "1": {
+      "item": "mcsmarmors:titanium_plate"
+    },
+    "2": {
+      "item": "mcsmarmors:enchanted_diamond"
+    },
+    "3": {
+      "item": "mcsmarmors:titanium_plate"
+    },
+    "4": {
+      "item": "mcsmarmors:titaniumalloy_armor_chestplate"
+    },
+    "5": {
+      "item": "mcsmarmors:titanium_plate"
+    },
+    "6": {
+      "item": "mcsmarmors:enchanted_diamond"
+    },
+    "7": {
+      "item": "mcsmarmors:titanium_plate"
+    },
+    "8": {
+      "item": "mcsmarmors:enchanted_diamond"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:super_alloyed_armor_chestplate",
+    "count": 1
+  }
+}

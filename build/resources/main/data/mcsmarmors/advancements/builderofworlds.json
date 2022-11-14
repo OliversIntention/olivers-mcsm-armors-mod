@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:soren_chestplate"
+    },
+    "title": {
+      "translate": "advancements.builderofworlds.title"
+    },
+    "description": {
+      "translate": "advancements.builderofworlds.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "builderofworlds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:soren_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "mcsmarmors:thearmoroftheknight"
+}

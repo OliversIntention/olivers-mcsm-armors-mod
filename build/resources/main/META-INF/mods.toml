@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mcsmarmors"
+version="1.7.1"
+displayName="Oliver's Story Mode Armors"
+credits="Oliver - Created Mod and 3d Models, Director. Azael - Created 2d Armor Textures"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/olivers-minecraft-story-mode-armors"
+authors="Oliver Vimmne, Azael Kurosaki"
+description='''
+Add's the armor's from Minecraft: Story Mode
+'''
+
+[[dependencies.mcsmarmors]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

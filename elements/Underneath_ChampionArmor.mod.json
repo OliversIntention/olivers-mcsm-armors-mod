@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "champion_of_the_underneathhelmet",
+    "enableBody": true,
+    "textureBody": "champion_of_the_underneathchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "champion_of_the_underneathpants",
+    "enableBoots": true,
+    "textureBoots": "champion_of_the_underneathboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "underneath_champion",
+    "helmetName": "Champion of the Underneath Helmet",
+    "bodyName": "Champion of the Underneath Chestplate",
+    "leggingsName": "Champion of the Underneath Leggings",
+    "bootsName": "Champion of the Underneath Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelUnderneathChampion",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "underneathchampion.png",
+    "bodyModelName": "ModelUnderneathChampion",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "underneathchampion.png",
+    "leggingsModelName": "ModelUnderneathChampion",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "underneathchampion.png",
+    "bootsModelName": "ModelUnderneathChampion",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "underneathchampion.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 150,
+    "damageValueHelmet": 6,
+    "damageValueBody": 16,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 6,
+    "enchantability": 20,
+    "toughness": 5.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Romeumingot"
+      }
+    ]
+  }
+}

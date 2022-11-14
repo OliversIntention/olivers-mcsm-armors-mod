@@ -1,0 +1,146 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.mcsmarmors.init;
+
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.client.event.EntityRenderersEvent;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.mcreator.mcsmarmors.client.model.Modelpetrahelmetblock;
+import net.mcreator.mcsmarmors.client.model.Modelpetrablock;
+import net.mcreator.mcsmarmors.client.model.Modeloliviahelmetblock;
+import net.mcreator.mcsmarmors.client.model.Modeloliviaarmorblock;
+import net.mcreator.mcsmarmors.client.model.Modellucasblock;
+import net.mcreator.mcsmarmors.client.model.Modellu161kas;
+import net.mcreator.mcsmarmors.client.model.Modelivor2helmetblock;
+import net.mcreator.mcsmarmors.client.model.ModelellegardBlock2;
+import net.mcreator.mcsmarmors.client.model.Modelcustom_model;
+import net.mcreator.mcsmarmors.client.model.ModelaxelBlock;
+import net.mcreator.mcsmarmors.client.model.ModelWhitePumpkinjava;
+import net.mcreator.mcsmarmors.client.model.ModelTimhelmetBlock;
+import net.mcreator.mcsmarmors.client.model.ModelTimBlock;
+import net.mcreator.mcsmarmors.client.model.ModelT161im;
+import net.mcreator.mcsmarmors.client.model.ModelSwordBreakerBlock;
+import net.mcreator.mcsmarmors.client.model.ModelSw16ordBreaker;
+import net.mcreator.mcsmarmors.client.model.ModelStar_Shieldjava;
+import net.mcreator.mcsmarmors.client.model.ModelStarShield2block;
+import net.mcreator.mcsmarmors.client.model.ModelSt161arShield;
+import net.mcreator.mcsmarmors.client.model.ModelSorenHatBlock4;
+import net.mcreator.mcsmarmors.client.model.ModelSorenHatBlock3;
+import net.mcreator.mcsmarmors.client.model.ModelSorenHatBlock2;
+import net.mcreator.mcsmarmors.client.model.ModelSorenHatBlock;
+import net.mcreator.mcsmarmors.client.model.ModelSorenBlock;
+import net.mcreator.mcsmarmors.client.model.ModelSo161ren;
+import net.mcreator.mcsmarmors.client.model.ModelShieldofInfinityBlock2;
+import net.mcreator.mcsmarmors.client.model.ModelShieldofInfinityBlock;
+import net.mcreator.mcsmarmors.client.model.ModelSh16ieldofInfinity;
+import net.mcreator.mcsmarmors.client.model.ModelSh161ieldOfInfinity;
+import net.mcreator.mcsmarmors.client.model.ModelS16tarShield;
+import net.mcreator.mcsmarmors.client.model.ModelS161wordBreaker;
+import net.mcreator.mcsmarmors.client.model.ModelRedstoneRiot;
+import net.mcreator.mcsmarmors.client.model.ModelRed161stoneRiot;
+import net.mcreator.mcsmarmors.client.model.ModelRe16dstoneRiot;
+import net.mcreator.mcsmarmors.client.model.ModelPe161tra;
+import net.mcreator.mcsmarmors.client.model.ModelO161livia;
+import net.mcreator.mcsmarmors.client.model.ModelMagnusBlock;
+import net.mcreator.mcsmarmors.client.model.ModelMa161gnus;
+import net.mcreator.mcsmarmors.client.model.ModelIvorHelmetBlock;
+import net.mcreator.mcsmarmors.client.model.ModelIvorBlock;
+import net.mcreator.mcsmarmors.client.model.ModelI161vor;
+import net.mcreator.mcsmarmors.client.model.ModelH2eadsetBlock;
+import net.mcreator.mcsmarmors.client.model.ModelGolden_Goliathskin;
+import net.mcreator.mcsmarmors.client.model.ModelGo16ldenGaliath;
+import net.mcreator.mcsmarmors.client.model.ModelGlasshelmetjava;
+import net.mcreator.mcsmarmors.client.model.ModelGabrielHelmetBlock2;
+import net.mcreator.mcsmarmors.client.model.ModelGabrielHelmetBlock;
+import net.mcreator.mcsmarmors.client.model.ModelGabrielBlock;
+import net.mcreator.mcsmarmors.client.model.ModelGa161briel;
+import net.mcreator.mcsmarmors.client.model.ModelGG2B;
+import net.mcreator.mcsmarmors.client.model.ModelG161oldenGaliath;
+import net.mcreator.mcsmarmors.client.model.ModelEnderDefenderBlock;
+import net.mcreator.mcsmarmors.client.model.ModelEn161derDefender;
+import net.mcreator.mcsmarmors.client.model.ModelEllegardHelmetBlock;
+import net.mcreator.mcsmarmors.client.model.ModelEllegardBlock;
+import net.mcreator.mcsmarmors.client.model.ModelEl161legaard;
+import net.mcreator.mcsmarmors.client.model.ModelE16nderDefener;
+import net.mcreator.mcsmarmors.client.model.ModelE162nderDefener;
+import net.mcreator.mcsmarmors.client.model.ModelDragonsbaneBlock;
+import net.mcreator.mcsmarmors.client.model.ModelDr16agonsbane;
+import net.mcreator.mcsmarmors.client.model.ModelD161ragonsbane;
+import net.mcreator.mcsmarmors.client.model.ModelA16damantive;
+import net.mcreator.mcsmarmors.client.model.ModelA161xel;
+import net.mcreator.mcsmarmors.client.model.ModelA161dam;
+
+@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = {Dist.CLIENT})
+public class McsmarmorsModModels {
+	@SubscribeEvent
+	public static void registerLayerDefinitions(EntityRenderersEvent.RegisterLayerDefinitions event) {
+		event.registerLayerDefinition(ModelA16damantive.LAYER_LOCATION, ModelA16damantive::createBodyLayer);
+		event.registerLayerDefinition(ModelSorenHatBlock.LAYER_LOCATION, ModelSorenHatBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelPe161tra.LAYER_LOCATION, ModelPe161tra::createBodyLayer);
+		event.registerLayerDefinition(ModelE16nderDefener.LAYER_LOCATION, ModelE16nderDefener::createBodyLayer);
+		event.registerLayerDefinition(ModelEn161derDefender.LAYER_LOCATION, ModelEn161derDefender::createBodyLayer);
+		event.registerLayerDefinition(ModelGabrielHelmetBlock2.LAYER_LOCATION, ModelGabrielHelmetBlock2::createBodyLayer);
+		event.registerLayerDefinition(ModelMagnusBlock.LAYER_LOCATION, ModelMagnusBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelRed161stoneRiot.LAYER_LOCATION, ModelRed161stoneRiot::createBodyLayer);
+		event.registerLayerDefinition(ModelTimhelmetBlock.LAYER_LOCATION, ModelTimhelmetBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelIvorBlock.LAYER_LOCATION, ModelIvorBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelGlasshelmetjava.LAYER_LOCATION, ModelGlasshelmetjava::createBodyLayer);
+		event.registerLayerDefinition(ModelSorenBlock.LAYER_LOCATION, ModelSorenBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelT161im.LAYER_LOCATION, ModelT161im::createBodyLayer);
+		event.registerLayerDefinition(ModelWhitePumpkinjava.LAYER_LOCATION, ModelWhitePumpkinjava::createBodyLayer);
+		event.registerLayerDefinition(ModelEllegardHelmetBlock.LAYER_LOCATION, ModelEllegardHelmetBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelDragonsbaneBlock.LAYER_LOCATION, ModelDragonsbaneBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelA161xel.LAYER_LOCATION, ModelA161xel::createBodyLayer);
+		event.registerLayerDefinition(ModelI161vor.LAYER_LOCATION, ModelI161vor::createBodyLayer);
+		event.registerLayerDefinition(ModelSw16ordBreaker.LAYER_LOCATION, ModelSw16ordBreaker::createBodyLayer);
+		event.registerLayerDefinition(ModelRe16dstoneRiot.LAYER_LOCATION, ModelRe16dstoneRiot::createBodyLayer);
+		event.registerLayerDefinition(ModelS16tarShield.LAYER_LOCATION, ModelS16tarShield::createBodyLayer);
+		event.registerLayerDefinition(ModelSo161ren.LAYER_LOCATION, ModelSo161ren::createBodyLayer);
+		event.registerLayerDefinition(ModelMa161gnus.LAYER_LOCATION, ModelMa161gnus::createBodyLayer);
+		event.registerLayerDefinition(ModelSorenHatBlock2.LAYER_LOCATION, ModelSorenHatBlock2::createBodyLayer);
+		event.registerLayerDefinition(ModelStarShield2block.LAYER_LOCATION, ModelStarShield2block::createBodyLayer);
+		event.registerLayerDefinition(ModelO161livia.LAYER_LOCATION, ModelO161livia::createBodyLayer);
+		event.registerLayerDefinition(ModelShieldofInfinityBlock2.LAYER_LOCATION, ModelShieldofInfinityBlock2::createBodyLayer);
+		event.registerLayerDefinition(ModelStar_Shieldjava.LAYER_LOCATION, ModelStar_Shieldjava::createBodyLayer);
+		event.registerLayerDefinition(ModelGabrielHelmetBlock.LAYER_LOCATION, ModelGabrielHelmetBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelTimBlock.LAYER_LOCATION, ModelTimBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelSorenHatBlock3.LAYER_LOCATION, ModelSorenHatBlock3::createBodyLayer);
+		event.registerLayerDefinition(Modellu161kas.LAYER_LOCATION, Modellu161kas::createBodyLayer);
+		event.registerLayerDefinition(ModelEl161legaard.LAYER_LOCATION, ModelEl161legaard::createBodyLayer);
+		event.registerLayerDefinition(ModelDr16agonsbane.LAYER_LOCATION, ModelDr16agonsbane::createBodyLayer);
+		event.registerLayerDefinition(ModelShieldofInfinityBlock.LAYER_LOCATION, ModelShieldofInfinityBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelellegardBlock2.LAYER_LOCATION, ModelellegardBlock2::createBodyLayer);
+		event.registerLayerDefinition(ModelGo16ldenGaliath.LAYER_LOCATION, ModelGo16ldenGaliath::createBodyLayer);
+		event.registerLayerDefinition(ModelSwordBreakerBlock.LAYER_LOCATION, ModelSwordBreakerBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelRedstoneRiot.LAYER_LOCATION, ModelRedstoneRiot::createBodyLayer);
+		event.registerLayerDefinition(Modeloliviahelmetblock.LAYER_LOCATION, Modeloliviahelmetblock::createBodyLayer);
+		event.registerLayerDefinition(ModelSt161arShield.LAYER_LOCATION, ModelSt161arShield::createBodyLayer);
+		event.registerLayerDefinition(ModelSorenHatBlock4.LAYER_LOCATION, ModelSorenHatBlock4::createBodyLayer);
+		event.registerLayerDefinition(ModelE162nderDefener.LAYER_LOCATION, ModelE162nderDefener::createBodyLayer);
+		event.registerLayerDefinition(ModelGolden_Goliathskin.LAYER_LOCATION, ModelGolden_Goliathskin::createBodyLayer);
+		event.registerLayerDefinition(ModelA161dam.LAYER_LOCATION, ModelA161dam::createBodyLayer);
+		event.registerLayerDefinition(Modeloliviaarmorblock.LAYER_LOCATION, Modeloliviaarmorblock::createBodyLayer);
+		event.registerLayerDefinition(ModelGG2B.LAYER_LOCATION, ModelGG2B::createBodyLayer);
+		event.registerLayerDefinition(ModelEnderDefenderBlock.LAYER_LOCATION, ModelEnderDefenderBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelIvorHelmetBlock.LAYER_LOCATION, ModelIvorHelmetBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelSh161ieldOfInfinity.LAYER_LOCATION, ModelSh161ieldOfInfinity::createBodyLayer);
+		event.registerLayerDefinition(ModelGabrielBlock.LAYER_LOCATION, ModelGabrielBlock::createBodyLayer);
+		event.registerLayerDefinition(Modelcustom_model.LAYER_LOCATION, Modelcustom_model::createBodyLayer);
+		event.registerLayerDefinition(Modelpetrahelmetblock.LAYER_LOCATION, Modelpetrahelmetblock::createBodyLayer);
+		event.registerLayerDefinition(ModelSh16ieldofInfinity.LAYER_LOCATION, ModelSh16ieldofInfinity::createBodyLayer);
+		event.registerLayerDefinition(ModelH2eadsetBlock.LAYER_LOCATION, ModelH2eadsetBlock::createBodyLayer);
+		event.registerLayerDefinition(Modelpetrablock.LAYER_LOCATION, Modelpetrablock::createBodyLayer);
+		event.registerLayerDefinition(Modellucasblock.LAYER_LOCATION, Modellucasblock::createBodyLayer);
+		event.registerLayerDefinition(ModelG161oldenGaliath.LAYER_LOCATION, ModelG161oldenGaliath::createBodyLayer);
+		event.registerLayerDefinition(ModelaxelBlock.LAYER_LOCATION, ModelaxelBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelGa161briel.LAYER_LOCATION, ModelGa161briel::createBodyLayer);
+		event.registerLayerDefinition(ModelD161ragonsbane.LAYER_LOCATION, ModelD161ragonsbane::createBodyLayer);
+		event.registerLayerDefinition(ModelEllegardBlock.LAYER_LOCATION, ModelEllegardBlock::createBodyLayer);
+		event.registerLayerDefinition(ModelS161wordBreaker.LAYER_LOCATION, ModelS161wordBreaker::createBodyLayer);
+		event.registerLayerDefinition(Modelivor2helmetblock.LAYER_LOCATION, Modelivor2helmetblock::createBodyLayer);
+	}
+}

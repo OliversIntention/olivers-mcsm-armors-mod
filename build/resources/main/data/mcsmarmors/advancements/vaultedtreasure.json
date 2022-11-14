@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:golden_galiath_chestplate"
+    },
+    "title": {
+      "translate": "advancements.vaultedtreasure.title"
+    },
+    "description": {
+      "translate": "advancements.vaultedtreasure.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "vaultedtreasure": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:golden_galiath_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "mcsmarmors:thearmoroftheknight"
+}

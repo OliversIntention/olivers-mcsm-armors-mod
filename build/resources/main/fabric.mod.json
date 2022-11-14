@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "mcsmarmors",
+  "version": "1.1.0",
+  "name": "Oliver's Story Mode Armors",
+  "description": "Add's ",
+  "authors": [
+    "Oliver Vimmne, Azael Kurosaki"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/olivers-minecraft-story-mode-armors",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.mcsmarmors.McsmarmorsMod"
+    ],
+    "client": [
+      "net.mcreator.mcsmarmors.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.18",
+    "java": ">=17"
+  }
+}

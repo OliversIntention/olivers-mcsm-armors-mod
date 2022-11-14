@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:romeumingot"
+    },
+    "1": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "2": {
+      "item": "mcsmarmors:romeumingot"
+    },
+    "4": {
+      "item": "mcsmarmors:enchanted_romeum_armor_leggings"
+    },
+    "7": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:underneath_champion_leggings",
+    "count": 1
+  }
+}

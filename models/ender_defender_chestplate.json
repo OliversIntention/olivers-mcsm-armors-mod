@@ -1,0 +1,35 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "storymode:ender_defender_chestplate",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "ender_defender_chestplate"
+      },
+	  "minecraft:creative_category": {
+	    "parent": "itemGroup.name.chestplate"
+	  },
+	  "minecraft:render_offsets": "chestplates",
+      "minecraft:use_duration": 0,
+      "minecraft:max_stack_size": 1,
+      "minecraft:mining_speed": 8,
+      "minecraft:damageable": {
+        "max_damage": 528,
+        "damage_chance": {
+          "min": 60,
+          "max": 100
+        }
+      },
+      "minecraft:armor": {
+        "protection": 8
+      },
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest"
+      },
+      "minecraft:display_name": {}
+    }
+  }
+}

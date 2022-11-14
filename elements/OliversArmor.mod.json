@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Story Mode Armors",
+    "icon": {
+      "value": "CUSTOM:Adamantine_ImperviumArmor.body"
+    },
+    "showSearch": false
+  }
+}

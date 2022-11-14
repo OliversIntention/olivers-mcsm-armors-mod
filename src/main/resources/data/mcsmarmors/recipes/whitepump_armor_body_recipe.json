@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "3": {
+      "item": "minecraft:bone_meal"
+    },
+    "4": {
+      "item": "mcsmarmors:super_alloyed_armor_chestplate"
+    },
+    "5": {
+      "item": "minecraft:bone_meal"
+    },
+    "7": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:white_pumpkin_chestplate",
+    "count": 1
+  }
+}

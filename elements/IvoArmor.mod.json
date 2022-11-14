@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ivorhelmet3",
+    "enableBody": true,
+    "textureBody": "ivorchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "ivorpants",
+    "enableBoots": true,
+    "textureBoots": "ivorboots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "ivo",
+    "helmetName": "Ivor Helmet",
+    "bodyName": "Ivor Chestplate",
+    "leggingsName": "Ivor Leggings",
+    "bootsName": "Ivor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "ModelIvorNew",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "ivornew.png",
+    "bodyModelName": "ModelIvorNew",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "ivornew.png",
+    "leggingsModelName": "ModelIvorNew",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "ivornew.png",
+    "bootsModelName": "ModelIvorNew",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "ivornew.png",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 100,
+    "damageValueHelmet": 4,
+    "damageValueBody": 13,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 15,
+    "toughness": 4.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Enchanteddiamond"
+      }
+    ]
+  }
+}

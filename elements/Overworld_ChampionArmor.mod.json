@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "overworld_champion_head",
+    "enableBody": true,
+    "textureBody": "champion_of_the_overworld_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "champion_of_the_overworld_pants",
+    "enableBoots": true,
+    "textureBoots": "champion_of_the_overworld_boots",
+    "creativeTab": {
+      "value": "CUSTOM:OliversArmor"
+    },
+    "armorTextureFile": "overworld_champion",
+    "helmetName": "Overworld_Champion Helmet",
+    "bodyName": "Champion of the Overworld Chestplate",
+    "leggingsName": "Champion of the Overworld Leggings",
+    "bootsName": "Champion of the Overworld Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "ModelOverworldChampion",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "LeftArm",
+    "armsModelPartR": "RightArm",
+    "bodyModelTexture": "overworldchampion.png",
+    "leggingsModelName": "ModelOverworldChampion",
+    "leggingsModelPartL": "LeftLeg",
+    "leggingsModelPartR": "RightLeg",
+    "leggingsModelTexture": "overworldchampion.png",
+    "bootsModelName": "ModelOverworldChampion",
+    "bootsModelPartL": "Lfoot",
+    "bootsModelPartR": "Rfoot",
+    "bootsModelTexture": "overworldchampion.png",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 150,
+    "damageValueHelmet": 6,
+    "damageValueBody": 16,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 6,
+    "enchantability": 20,
+    "toughness": 5.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Romeumingot"
+      }
+    ]
+  }
+}

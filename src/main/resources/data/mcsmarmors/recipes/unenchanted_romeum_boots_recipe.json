@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "1": {
+      "item": "mcsmarmors:titaniumalloy_armor_boots"
+    },
+    "2": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "3": {
+      "item": "mcsmarmors:romeum_plate"
+    },
+    "5": {
+      "item": "mcsmarmors:romeum_plate"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:unenchanted_romeum_armor_boots",
+    "count": 1
+  }
+}

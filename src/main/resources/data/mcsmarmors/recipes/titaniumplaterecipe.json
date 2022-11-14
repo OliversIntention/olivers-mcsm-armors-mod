@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mcsmarmors:titanium_ingot"
+    },
+    {
+      "item": "mcsmarmors:titanium_ingot"
+    }
+  ],
+  "result": {
+    "item": "mcsmarmors:titanium_plate",
+    "count": 2
+  }
+}

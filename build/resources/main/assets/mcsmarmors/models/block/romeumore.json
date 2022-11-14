@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "up": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "north": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "east": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "south": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "west": "mcsmarmors:blocks/nether_bloodstone_ore",
+    "particle": "mcsmarmors:blocks/nether_bloodstone_ore"
+  }
+}

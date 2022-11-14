@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:shulker_shell"
+    },
+    "1": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "2": {
+      "item": "minecraft:shulker_shell"
+    },
+    "4": {
+      "item": "mcsmarmors:super_alloyed_armor_chestplate"
+    },
+    "7": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "mcsmarmors:dragonsbane_chestplate",
+    "count": 1
+  }
+}

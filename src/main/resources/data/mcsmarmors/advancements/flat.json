@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "mcsmarmors:titanium_plate"
+    },
+    "title": {
+      "translate": "advancements.flat.title"
+    },
+    "description": {
+      "translate": "advancements.flat.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flat": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mcsmarmors:titanium_plate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "mcsmarmors:revolutionary_discoveries"
+}
